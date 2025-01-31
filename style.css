@@ -1,0 +1,19 @@
+html, body {
+    background-color: rgb(240, 255, 255);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: rgb(173, 199, 199);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
